@@ -27,3 +27,5 @@ class Solution(object):
             right -= 1
             top += 1
             bottom -= 1
+
+    # time complexity O(n^2)
