@@ -38,3 +38,5 @@ class Solution(object):
             left += 1
 
         return matrix
+    
+    # time complexity O(n^2)
